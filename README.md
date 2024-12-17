@@ -1,3 +1,6 @@
+# Author
+Ilan Meyer Souffir
+
 # cowboy_vs_ninja_a
 
 בתרגיל זה ניצור סימולציה של קרב בין נינגות ובוקרים
